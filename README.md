@@ -2,22 +2,26 @@
 
 A simple and production-ready end-to-end sentiment analysis project using LSTM and PyTorch, based on the IMDB dataset.
 
-## Structure
+---
 
+## Project Structure
+
+```plaintext
 sentiment-analyzer-pytorch/
 ├── data/
 ├── models/
-│ └── lstm_model.py
+│   └── lstm_model.py
 ├── src/
-│ ├── train.py
-│ ├── evaluate.py
-│ └── predict.py
+│   ├── train.py
+│   ├── evaluate.py
+│   └── predict.py
 ├── app/
-│ └── gradio_app.py
+│   └── gradio_app.py
 ├── notebooks/
-│ └── exploratory_analysis.ipynb
+│   └── exploratory_analysis.ipynb
 ├── requirements.txt
 └── README.md
+
 
 ## How to run
 
