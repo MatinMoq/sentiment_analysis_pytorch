@@ -21,7 +21,7 @@ sentiment-analyzer-pytorch/
 │   └── exploratory_analysis.ipynb
 ├── requirements.txt
 └── README.md
-
+```
 
 ## How to run
 
