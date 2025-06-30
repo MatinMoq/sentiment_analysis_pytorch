@@ -24,7 +24,6 @@ sentiment-analyzer-pytorch/
 ```
 
 ## How to run
-```
 ```markdown
  1. Install requirements
 ```
