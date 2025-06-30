@@ -22,35 +22,35 @@ sentiment-analyzer-pytorch/
 ├── requirements.txt
 └── README.md
 ```
-```markdown
+
 ## How to run
 ```
 ```markdown
-### 1. Install requirements
+ 1. Install requirements
 ```
 ```bash
 pip install -r requirements.txt
 ```
 ```markdown
-### 2. Train model
+ 2. Train model
 ```
 ```bash
 python src/train.py
 ```
 ```markdown
-### 3. Evaluate model
+ 3. Evaluate model
 ```
 ```bash
 python src/evaluate.py
 ```
 ```markdown
-### 4. Predict sentiment
+ 4. Predict sentiment
 ```
 ```bash
 python src/predict.py
 ```
 ```markdown
-### 5. Run Gradio app
+ 5. Run Gradio app
 ```
 ```bash
 python app/gradio_app.py
